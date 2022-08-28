@@ -560,7 +560,7 @@ banner()
 
 clear()
 banner()
-target = input("\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nEnter Victim's Phone Number:\n+919307497588")
+target = input("\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nEnter Victim's Phone Number:\n+91")
 m = int(input("Now enter the SMS count:\n"))
 print("\nBomb initializing...\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
 max = 10**500
